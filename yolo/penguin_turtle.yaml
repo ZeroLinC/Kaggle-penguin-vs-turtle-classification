@@ -1,0 +1,10 @@
+# paths:
+path: ../datasets/penguin_vs_turtle
+train: images/train
+val: images/train
+test: images/valid
+
+names:
+  0: penguin
+  1: turtle
+
